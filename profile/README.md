@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-关注 JS Worker 相关的技术发展，特别是 Edge Worker。
+关注 JS Worker 相关的技术发展，特别是 Edge Worker：
 
 - [Cloudflare Workers](https://workers.cloudflare.com)
 - [AWS CloudFront Functions and Lambda@Edge](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/cloudfront-functions.html)
